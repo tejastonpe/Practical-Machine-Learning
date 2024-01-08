@@ -6,14 +6,14 @@ Machine learning is a powerful field that involves creating models and algorithm
 
 # Algorithms Included
 **Linear Regression: Simple and multiple linear regression.**
-# Logistic Regression: Binary and multinomial logistic regression.
-# K-Nearest Neighbors (KNN): A versatile classification algorithm.
-# Decision Trees: Binary and multi-class decision trees.
-# Random Forest: Ensemble of decision trees for improved performance.
-# Support Vector Machines (SVM): Binary and multi-class SVMs.
-# Naive Bayes: Gaussian and Multinomial Naive Bayes classifiers.
-# Neural Networks: Multi-layer perceptron for both regression and classification.
-# Each algorithm is implemented with detailed comments, and example datasets are provided for experimentation.
+**Logistic Regression: Binary and multinomial logistic regression.**
+**K-Nearest Neighbors (KNN): A versatile classification algorithm.**
+**Decision Trees: Binary and multi-class decision trees.**
+**Random Forest: Ensemble of decision trees for improved performance.**
+**Support Vector Machines (SVM): Binary and multi-class SVMs.**
+**Naive Bayes: Gaussian and Multinomial Naive Bayes classifiers.**
+**Neural Networks: Multi-layer perceptron for both regression and classification.**
+**Each algorithm is implemented with detailed comments, and example datasets are provided for experimentation.**
 
 # Usage
 To use the algorithms in this repository, follow these steps:
