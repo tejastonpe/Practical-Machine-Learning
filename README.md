@@ -5,7 +5,7 @@ Welcome to the Practical Machine Learning Repository! This repository is dedicat
 Machine learning is a powerful field that involves creating models and algorithms capable of learning patterns from data. This repository aims to be a practical resource for machine learning enthusiasts, students, and professionals who want to implement and understand various regression and classification algorithms.
 
 # Algorithms Included
-# Linear Regression: Simple and multiple linear regression.
+**Linear Regression: Simple and multiple linear regression.**
 # Logistic Regression: Binary and multinomial logistic regression.
 # K-Nearest Neighbors (KNN): A versatile classification algorithm.
 # Decision Trees: Binary and multi-class decision trees.
