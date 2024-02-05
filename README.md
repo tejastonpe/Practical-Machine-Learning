@@ -1,10 +1,10 @@
 # Practical-Machine-Learning
 Welcome to the Practical Machine Learning Repository! This repository is dedicated to providing a comprehensive collection of regression and classification algorithms implemented in Python, along with practical examples and usage guidelines.
 
-# Introduction
+## Introduction
 Machine learning is a powerful field that involves creating models and algorithms capable of learning patterns from data. This repository aims to be a practical resource for machine learning enthusiasts, students, and professionals who want to implement and understand various regression and classification algorithms.
 
-# Algorithms Included
+## Algorithms Included
 **Linear Regression: Simple and multiple linear regression.**\
 **Logistic Regression: Binary and multinomial logistic regression.**\
 **K-Nearest Neighbors (KNN): A versatile classification algorithm.**\
@@ -15,7 +15,7 @@ Machine learning is a powerful field that involves creating models and algorithm
 **Neural Networks: Multi-layer perceptron for both regression and classification.**\
 **Each algorithm is implemented with detailed comments, and example datasets are provided for experimentation.**\
 
-# Usage
+## Usage
 To use the algorithms in this repository, follow these steps:
 
 Clone the repository to your local machine.
